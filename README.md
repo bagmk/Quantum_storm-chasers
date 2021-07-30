@@ -11,11 +11,11 @@ Example:
 3. pip install -r requirements.txt
 
 ## How to Use
-For judges feel free run to run the setup and explore the technical documentation  (by Saesun Kim & Ricky. Y) found in
+For judges feel free run to run the setup and explore the technical documentation  (by [Saesun Kim](https://www.linkedin.com/in/saesun-kim/) & [Ricky. Y](https://www.linkedin.com/in/ricky-y-1545b3a9/)) found in
 
 [Technical Analysis Paper](./result/Technical_Summary.pdf)
 
-Our business proposal (by Silvia Tzenkova) for a quantum algorithm company focused on weather is found here:
+Our business proposal (by [Silvia Tzenkova](https://www.linkedin.com/in/silvia-tzenkova/)) for a quantum algorithm company focused on weather is found here:
 
 [Business Analysis Paper](./business/BusinessCases.md)
 
