@@ -11,11 +11,15 @@ Example:
 3. pip install -r requirements.txt
 
 ## How to Use
-Example:
-From command line: Use python solvers/script.py -h
+For judges feel free run to run the setup and explore the technical documentation found in
 
-After you have activate your environment, before you install anything, make sure
-to update your pip with: pip install --upgrade pip
+
+[Technical Analysis Paper](./Notebooks/Technical_Summary.pdf)
+
+Our business proposal for a quantum algorithm company focused on weather is found here:
+
+[Business Analysis Paper](./business/BusinessCases.md)
+
 
 ## Installation/plugins with jupyter
 
