@@ -2,6 +2,15 @@
 
 In the following project we apply various Quantum algorithms using Qiskit to weather related image data. Our business proposal is also aligned with developing a quantum weathert application. We have also partially implemented a quantum SVM in Pennylane, but it still needs some work.
 
+Tthe technical documentation  (by [Saesun Kim](https://www.linkedin.com/in/saesun-kim/) & [Ricky. Y](https://www.linkedin.com/in/ricky-y-1545b3a9/)) found in
+
+[Technical Analysis Paper](./result/Technical_Summary.pdf)
+
+Our business proposal (by [Silvia Tzenkova](https://www.linkedin.com/in/silvia-tzenkova/)) for a quantum algorithm company focused on weather is found here:
+
+[Business Analysis Paper](./business/BusinessCases.md)
+
+
 ## Setup
 Example:
 1. Make sure you have X installed and configured.
@@ -9,15 +18,6 @@ Example:
 2. Set up your preferred virtual environment.
 
 3. pip install -r requirements.txt
-
-## How to Use
-For judges feel free run to run the setup and explore the technical documentation  (by [Saesun Kim](https://www.linkedin.com/in/saesun-kim/) & [Ricky. Y](https://www.linkedin.com/in/ricky-y-1545b3a9/)) found in
-
-[Technical Analysis Paper](./result/Technical_Summary.pdf)
-
-Our business proposal (by [Silvia Tzenkova](https://www.linkedin.com/in/silvia-tzenkova/)) for a quantum algorithm company focused on weather is found here:
-
-[Business Analysis Paper](./business/BusinessCases.md)
 
 
 ## Installation/plugins with jupyter
