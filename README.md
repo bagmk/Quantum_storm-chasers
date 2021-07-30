@@ -10,7 +10,6 @@ Our business proposal (by [Silvia Tzenkova](https://www.linkedin.com/in/silvia-t
 
 [Business Analysis Paper](./business/BusinessCases.md)
 
-
 ## Setup
 Example:
 1. Make sure you have X installed and configured.
@@ -55,3 +54,6 @@ install nbtripout using `pip install nbstripout`. Please make sure to run
 in all the notebooks in a given folder, you can run it on a folder, e.g. the
 command `nbstripout Qube/*` clears the output from all the notebooks in `Qube`
 folder.
+
+
+Please see more details of hackathon [here](https://github.com/CDL-Quantum/Hackathon2021)
