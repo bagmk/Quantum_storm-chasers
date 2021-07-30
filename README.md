@@ -56,4 +56,5 @@ command `nbstripout Qube/*` clears the output from all the notebooks in `Qube`
 folder.
 
 
-Please see more details of hackathon [here](https://github.com/CDL-Quantum/Hackathon2021)
+## CDL-Quantum/Hackathon2021
+This project won the first place in [CDL hackathon](https://github.com/CDL-Quantum/Hackathon2021)
