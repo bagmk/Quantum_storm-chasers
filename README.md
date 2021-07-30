@@ -57,4 +57,4 @@ folder.
 
 
 ## CDL-Quantum/Hackathon2021
-This project won the first place in [CDL hackathon](https://github.com/CDL-Quantum/Hackathon2021)
+This project won [CDL hackathon](https://github.com/CDL-Quantum/Hackathon2021)
