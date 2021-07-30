@@ -14,7 +14,7 @@ Example:
 For judges feel free run to run the setup and explore the technical documentation found in
 
 
-[Technical Analysis Paper](./Notebooks/Technical_Summary.pdf)
+[Technical Analysis Paper](./result/Technical_Summary.pdf)
 
 Our business proposal for a quantum algorithm company focused on weather is found here:
 
