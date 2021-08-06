@@ -12,7 +12,7 @@ Our business proposal (by [Silvia Tzenkova](https://www.linkedin.com/in/silvia-t
 
 Here is the presentation slide by [Ricky. Y](https://www.linkedin.com/in/ricky-y-1545b3a9/), [Saesun Kim](https://www.linkedin.com/in/saesun-kim/), and [Silvia Tzenkova](https://www.linkedin.com/in/silvia-tzenkova/)
 
-[presentation](Presentation-1QPoint.pptx)
+[presentation](Presentation-1QPoint.pdf)
 
 ## Setup
 Example:
