@@ -10,6 +10,10 @@ Our business proposal (by [Silvia Tzenkova](https://www.linkedin.com/in/silvia-t
 
 [Business Analysis Paper](./business/BusinessCases.md)
 
+Here is the presentation slide by [Ricky. Y](https://www.linkedin.com/in/ricky-y-1545b3a9/), [Saesun Kim](https://www.linkedin.com/in/saesun-kim/), and [Silvia Tzenkova](https://www.linkedin.com/in/silvia-tzenkova/)
+
+[presentation](Presentation-1QPoint.pptx)
+
 ## Setup
 Example:
 1. Make sure you have X installed and configured.
