@@ -1,5 +1,21 @@
 ## Project Description 
 
+
+<table align="center">
+    <tr>
+        <td><img src="./business/Slide1.JPG" width="500"></td>
+        <td><img src="./business/Slide7.JPG" width="500"></td>
+     </tr>
+ </table>
+ 
+ 
+<table align="center">
+    <tr>
+        <td><img src="./business/Slide10.JPG" width="500"></td>
+        <td><img src="./business/Slide11.JPG" width="500"></td>
+     </tr>
+ </table>
+
 In the following project we apply various Quantum algorithms using Qiskit to weather related image data. Our business proposal is also aligned with developing a quantum weathert application. We have also partially implemented a quantum SVM in Pennylane, but it still needs some work.
 
 Tthe technical documentation  (by [Saesun Kim](https://www.linkedin.com/in/saesun-kim/) & [Ricky. Y](https://www.linkedin.com/in/ricky-y-1545b3a9/)) found in
