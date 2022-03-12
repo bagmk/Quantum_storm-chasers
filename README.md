@@ -4,20 +4,6 @@
 [![DOI](https://zenodo.org/badge/388006280.svg)](https://zenodo.org/badge/latestdoi/388006280)
 
 
-<table align="center">
-    <tr>
-        <td><img src="./business/Slide1.JPG" width="500"></td>
-        <td><img src="./business/Slide7.JPG" width="500"></td>
-     </tr>
- </table>
- 
- 
-<table align="center">
-    <tr>
-        <td><img src="./business/Slide10.JPG" width="500"></td>
-        <td><img src="./business/Slide11.JPG" width="500"></td>
-     </tr>
- </table>
 
 ## Project Description 
 
@@ -37,6 +23,23 @@ Here is the presentation slide by [Ricky. Y](https://www.linkedin.com/in/ricky-y
 
 [presentation](Presentation-1QPoint.pdf)
 
+
+
+<table align="center">
+    <tr>
+        <td><img src="./business/Slide1.JPG" width="500"></td>
+        <td><img src="./business/Slide7.JPG" width="500"></td>
+     </tr>
+ </table>
+ 
+ 
+<table align="center">
+    <tr>
+        <td><img src="./business/Slide10.JPG" width="500"></td>
+        <td><img src="./business/Slide11.JPG" width="500"></td>
+     </tr>
+ </table>
+ 
 ## Setup
 Example:
 1. Make sure you have X installed and configured.
